@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/sangvishtech" target="blank"><img src="https://img.shields.io/twitter/follow/sangvishtech?logo=twitter&style=for-the-badge" alt="sangvishtech" /></a> </p>
 
-- 🔭 We're currently working on **Rental Script, Alibaba Clone, Aliexpress Clone, eBay Clone, Etsy Clone, Amazon Clone, Taskrabbit Clone, Thumbtack Clone, Handy Clone, Themeforest Clone, Marty Multi vendor Marketplace Script**
+- 🔭 We're currently working on **Rental Script, Alibaba Clone, Aliexpress Clone, eBay Clone, Etsy Clone, Amazon Clone, Taskrabbit Clone, Handy Clone, Themeforest Clone, Marty Multi vendor Marketplace Script**
 
 - 🌱 We're currently learning **Machine learning, Advanced Technologies, SEO Strategies**
 

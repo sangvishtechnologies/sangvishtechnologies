@@ -1,5 +1,3 @@
-![sangvish](https://github.com/sangvishtechnologies/sangvishtechnologies/assets/161323540/c8e26d97-a501-440b-a692-5a8807920b17)
-
 <h1 align="center">Hi 👋,We're Sangvish Technologies</h1>
 <h3 align="center">Top On-Demand Web And Mobile Apps Development Company</h3>
 
